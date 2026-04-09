@@ -1,6 +1,6 @@
 public class JavaString {
     public static void main(String[] args){
-        //remove consecutive similar world only 1 should 
+        //remove consecutive similar word only 1 should 
         String str1="aabbbccdaa";
         String result=" ";
         result +=str1.charAt(0);
